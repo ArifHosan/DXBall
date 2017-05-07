@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, DXBallActivity!</string>
+    <string name="app_name">DX Ball</string>
+    <string name="new_game">New Game</string>
+    <string name="options">Options</string>
+    <string name="high_score">High Score</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="sound">Sound</string>
+    <string name="vibration">Vibration</string>
+    <string name="reset">Reset High Score</string>
+    
+    <color name="white">#FFFFFF</color>
+
+</resources>
